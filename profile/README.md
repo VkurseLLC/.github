@@ -1,4 +1,4 @@
-#	![VKURSE](img/logo1.png)
+#	![VKURSE](https://github.com/VkurseLLC/.github/blob/main/profile/img/logo1.png)
 
 Смотрите где находятся ваши друзья, находите мероприятия по душе!
 
